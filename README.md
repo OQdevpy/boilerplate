@@ -1,3 +1,3 @@
 # boilerplate
 
-# login,register, update password, reset-password with redis
+# login, register, update password, reset-password with redis
